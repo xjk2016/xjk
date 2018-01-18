@@ -1,1 +1,9 @@
-this is a demo
+create action 
+
+dispatch(action)
+
+middleware
+
+newState = reducer(oldState action)
+
+render(newState)
