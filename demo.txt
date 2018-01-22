@@ -1,9 +1,15 @@
-create action 
+http://10.110.200.66:9002
 
-dispatch(action)
+https://doc.react-china.org/
 
-middleware
+http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html
 
-newState = reducer(oldState action)
+https://segmentfault.com/a/1190000012646488 sfÇ°¶Ë
 
-render(newState)
+
+https://github.com/wxyyxc1992/Domain-of-ProgrammingLanguage/tree/master/JavaScript/Modern-JavaScript-Development-Foundation
+
+
+http://idea.lanyus.com/    idea×¢²áÂë
+
+https://github.com/jiayisheji/blog/issues/5 npm³£ÓÃ
