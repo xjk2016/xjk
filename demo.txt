@@ -13,3 +13,19 @@ https://github.com/wxyyxc1992/Domain-of-ProgrammingLanguage/tree/master/JavaScri
 http://idea.lanyus.com/    idea注册码
 
 https://github.com/jiayisheji/blog/issues/5 npm常用
+
+https://github.com/brickspert/react-family 搭建react全家桶
+
+https://segmentfault.com/a/1190000012925872   js单线程
+
+深入浅出webpack
+
+
+https://cnodejs.org/api  cnode社区api
+
+https://segmentfault.com/a/1190000013030634 nodejs
+
+
+https://www.cnblogs.com/xiaoniuzai/p/6618834.html 事件队列 macrotask&microtasks
+
+https://juejin.im/post/599b95f26fb9a0247637d651 轻量级函数式教程
